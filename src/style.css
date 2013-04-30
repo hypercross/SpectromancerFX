@@ -1,0 +1,19 @@
+.split-pane:horizontal > * > .split-pane-divider {
+   -fx-border-color:  transparent;
+   -fx-background-color: transparent;
+   -fx-background-insets: 0;
+}
+
+.split-pane:vertical > * > .split-pane-divider {
+   -fx-border-color:  transparent;
+   -fx-background-color: transparent;
+   -fx-background-insets: 0;
+}
+
+.pane{
+	-fx-background-color:transparent;
+}
+
+.button{
+	-fx-padding : 5 5 5 5
+}
